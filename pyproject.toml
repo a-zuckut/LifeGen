@@ -1,7 +1,8 @@
 [project]
 name = "lifegen"
+author = "Alex Zuckut"
 version = "0.1.0"
-description = "Add your description here"
+description = "Testing combination of generative algorithms and AI agents to create a series of life evolution simulations."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
